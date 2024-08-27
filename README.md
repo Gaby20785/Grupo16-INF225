@@ -1,8 +1,8 @@
 **Integrantes:**
- - Elson Navarrete
+ - Elson Navarrete 202273582-1
  - Aylin Rojas 202173531-3
- - Fernando Xais 
- - Gabriela Yañez
+ - Fernando Xais 202273551-1
+ - Gabriela Yañez 202273511-2
 
 **Enlace video presentación cliente:**  https://www.youtube.com/watch?v=abJau21SDIk
 
