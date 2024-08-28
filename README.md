@@ -6,6 +6,7 @@ Este es el repositorio del *Grupo 4*, cuyos integrantes son:
  * Aylin Rojas - 202173531-3
  * Fernando Xais - 202273551-1
  * Gabriela Yañez - 202273511-2
+ * **Tutor**: Matias Barrera
 
 ## Wiki
 
