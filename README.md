@@ -17,6 +17,11 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Bionic
 * [Video presentación cliente](https://www.youtube.com/watch?v=abJau21SDIk)
 * [Video prototipo](https://youtu.be/uakP8lTkoxk)
 
+## Aclaraciones
+
+- Prototipo 1 no contiene los mismos archivos que hito-3. No se tiene una base de datos, actualmente.
+
+
 ## Aspectos ténicos:
 -Para la ejecución del código es necesario el uso de Xampp con Apache y MySQL (https://www.apachefriends.org/es/download.html)
 
