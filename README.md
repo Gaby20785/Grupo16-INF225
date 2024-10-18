@@ -15,7 +15,26 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Bionic
 ## Videos
 
 * [Video presentación cliente](https://www.youtube.com/watch?v=abJau21SDIk)
+* [Video prototipo]()
 
 ## Aspectos ténicos:
-El código proporcionado fue creado con el uso de xampp (https://www.apachefriends.org/es/download.html) y Visual Studio Code (https://code.visualstudio.com/Download) mediante el uso de complemementos de php
-Para su uso debe guardar los archivos en su ruta de htdocs (para xampp) y activar Apache y MySql en xampp
+-Para la ejecución del código es necesario el uso de Xampp con Apache y MySQL (https://www.apachefriends.org/es/download.html)
+-Para su creación se hizo uso de Visual Studio Code (https://code.visualstudio.com/Download) mediante el uso de complemementos de php. Incluye además el uso de Xampp (se recomienda ver tutoriales para su correcto funcionamiento)
+
+Instrucciones:
+  1- Tener instalado Xampp con Apache y MySQL (Xampp permite la descarga de Apache y MySQL dentro de él) (asegurar mismas versiones que las utilizadas para los archivos siguientes), caso           contrario, debe instalarlo asegurando seguir un tutorial para su correcta instalación (verifique permisos del usuario y path) (https://youtu.be/TlrEvfbGTJ4?si=oPLV4z0CCkWrslIC                 recomendación)
+  2- Descargar archivos del tag "hito-3"
+  3- Descomprimir el archivo "GRUPO04-2024-PROYINF-main"
+  4- Llevar el archivo "proyecto" a htdocs en Xampp (se recomienda borrar los archivos presentes en htdocs, a menos que sea un proyecto en carpeta)
+  5- Abrir el panel de control de Xampp e iniciar Apache y MySQL
+  6- Abrir "init.html" con google u otro navegador
+
+Siguiendo estas instrucciones podrá utilizar los archivos presentes de manera correcta
+
+IMPORTANTE: Xampp control versión 3.3.0
+            Apache HTTP versión 2.4.58
+            PHP versión 8.2.12
+            MySQL versión 10.4.32.0
+            
+            
+
