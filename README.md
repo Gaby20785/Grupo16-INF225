@@ -16,6 +16,7 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Bionic
 
 * [Video presentación cliente](https://www.youtube.com/watch?v=abJau21SDIk)
 * [Video prototipo](https://youtu.be/uakP8lTkoxk)
+* [Video presentación final proyecto](https://youtu.be/eaJ3aH8rNG8)
 
 ## Aclaraciones
 
@@ -35,7 +36,7 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Bionic
   
   3- Descomprimir el archivo "GRUPO04-2024-PROYINF-main"
   
-  4- Llevar **los archivos descomprimidos de "proyecto-hito4.zip"** a htdocs en Xampp (se recomienda borrar los archivos presentes en htdocs, a menos que sea un proyecto en carpeta) (se deja el código del avance anterior 'proyecto.zip' en caso de necesitarlo)
+  4- Llevar **los archivos descomprimidos de "proyecto-hito5.zip"** a htdocs en Xampp (se recomienda borrar los archivos presentes en htdocs, a menos que sea un proyecto en carpeta) (se deja el código del avance anterior 'proyecto.zip' en caso de necesitarlo)
 
   5- Instalar las dependencias para python: mysql-connector-python, requests, beautifulsoup4
 	    Para esto basta con escribir en la consola:
@@ -62,10 +63,13 @@ Siguiendo estas instrucciones podrá utilizar los archivos presentes de manera c
 - MySQL versión 10.4.32.0
 - Versión del servidor: 10.4.32-MariaDB
 - **Creación en Windows**
+- **Guarde en htdocs de la forma: proyecto-hito5/proyecto/...**
   
 **NOTAS:** 
 - Dentro hay una carpeta 'config' con un archivo 'config.php' que tiene el usuario y contraseña por defecto para ingresar a la base de datos si tienen un usuario o contraseña en especifico deben cambiar esos apartados, y también deben cambiarlos en el archivo scrape.py.
 - Sólo hay 6 productos en la segunda página, en la página de noticias hay muchas pero solo dejé las primeras 20 para que no tarde demasiado.
 - Para probar funcionamiento, solo se tienen tres usuarios de prueba; email: admin@admin.cl password: adminpass   , email: user@gmail.com password: userpass   , email: especialista@especialista.cl password: especialista123
+- Se tienen 5 boletines para buscar; "El cultivo del pepino dulce", "Boletín de vitivinicultura para la zona de mesoclima de la Patagonia occidental de la Región de Aysén", "Manual del maestro quesero", "Recetario Charcutería Cerdo Avellanero de Lumaco" y "Estrategia de Innovación y Desarrollo Agrícola para la Región de Tarapacá"
+- Para el ingreso de parámetros para crear boletines se sugieren dos combinaciones; palabras clave: "agua" y/o "hidricos"  fuente: www.wikipedia.cl,  palabras clave: "climatico" y/o "mitiga"  fuente: www.wikipedia.cl
             
 
