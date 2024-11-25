@@ -16,7 +16,7 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Bionic
 
 * [Video presentación cliente](https://www.youtube.com/watch?v=abJau21SDIk)
 * [Video prototipo](https://youtu.be/uakP8lTkoxk)
-* [Video presentación final proyecto](https://youtu.be/eaJ3aH8rNG8)
+* [Video presentación final proyecto](https://youtu.be/biPBmX9duXE?si=PDzDYRDL1AYbFLQ4)
 
 ## Aclaraciones
 
@@ -32,7 +32,7 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Bionic
 
   1- Tener instalado Xampp con Apache y MySQL (Xampp permite la descarga de Apache y MySQL dentro de él) (asegurar mismas versiones que las utilizadas para los archivos siguientes), caso contrario, debe instalarlo asegurando seguir un tutorial para su correcta instalación (verifique permisos del usuario y path) (https://youtu.be/TlrEvfbGTJ4?si=oPLV4z0CCkWrslIC recomendación)
   
-  2- Descargar archivos del tag "hito-4"
+  2- Descargar archivos del tag "hito-5"
   
   3- Descomprimir el archivo "GRUPO04-2024-PROYINF-main"
   
@@ -48,7 +48,7 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Bionic
 
   6- Abrir PhpMyAdmin de MySQL y crear una nueva base de datos llamada 'boletines', seleccionar la base de datos e importar el archivo 'boletines.sql'
   
-  7- Abrir "init.html" con google u otro navegador
+  7- Abrir "http://localhost/proyecto-hito5/proyecto/init.html" con google u otro navegador
 
   7.1- Cuando se ingrese a la sección de parámetros y fuentes, se pueden agregar una de estas dos fuentes (o ambas), para recopilar noticias y/o productos en sus respectivas tablas en la base de datos:
 	  https://www.agritechfuture.com/
