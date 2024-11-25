@@ -66,7 +66,7 @@ Siguiendo estas instrucciones podrá utilizar los archivos presentes de manera c
 - **Guarde en htdocs de la forma: proyecto-hito5/proyecto/...**
   
 **NOTAS:** 
-- Dentro hay una carpeta 'config' con un archivo 'config.php' que tiene el usuario y contraseña por defecto para ingresar a la base de datos si tienen un usuario o contraseña en especifico deben cambiar esos apartados, y también deben cambiarlos en el archivo scrape.py.
+- Dentro hay una carpeta 'config' con un archivo 'config.php' que tiene el host, usuario y contraseña por defecto para ingresar a la base de datos si tienen un puerto, usuario o contraseña en especifico deben cambiar esos apartados, y también deben cambiarlos en el archivo scrape.py.
 - Sólo hay 6 productos en la segunda página, en la página de noticias hay muchas pero solo dejé las primeras 20 para que no tarde demasiado.
 - Para probar funcionamiento, solo se tienen tres usuarios de prueba; email: admin@admin.cl password: adminpass   , email: user@gmail.com password: userpass   , email: especialista@especialista.cl password: especialista123
 - Se tienen 5 boletines para buscar; "El cultivo del pepino dulce", "Boletín de vitivinicultura para la zona de mesoclima de la Patagonia occidental de la Región de Aysén", "Manual del maestro quesero", "Recetario Charcutería Cerdo Avellanero de Lumaco" y "Estrategia de Innovación y Desarrollo Agrícola para la Región de Tarapacá"
