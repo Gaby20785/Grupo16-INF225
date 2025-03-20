@@ -1,6 +1,6 @@
-# Grupo 
+# Grupo 16
 
-Este es el repositorio del *Grupo 5*, cuyos integrantes son:
+Este es el repositorio del *Grupo 16*, cuyos integrantes son:
 
  * Rodrigo Flores - 202173523-2
  * Aylin Rojas - 202173531-3
