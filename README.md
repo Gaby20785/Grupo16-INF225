@@ -9,7 +9,7 @@ Este es el repositorio del *Grupo 16*, cuyos integrantes son:
 
 ## Wiki
 
-Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Bionic-Z/GRUPO04-2024-PROYINF/wiki)
+Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Gaby20785/Grupo16-INF225/wiki)
 
 ## Videos
 
