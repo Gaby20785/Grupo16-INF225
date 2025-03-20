@@ -8,7 +8,7 @@ Este es el repositorio del *Grupo 5*, cuyos integrantes son:
  * Francisca Zavala - 202173632-8
  * **Tutor**: Benjamín Daza
    
-## proyecto a seguir
+## Proyecto a seguir
 
 Se seguirá trabajando con el proyecto 2024-02 Grupo 4 de este mismo repositorio
 
