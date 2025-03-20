@@ -1,4 +1,4 @@
-# Grupo 5
+# Grupo 
 
 Este es el repositorio del *Grupo 5*, cuyos integrantes son:
 
