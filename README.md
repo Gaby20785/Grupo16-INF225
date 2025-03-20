@@ -2,10 +2,10 @@
 
 Este es el repositorio del *Grupo 16*, cuyos integrantes son:
 * Elson Navarrete - 202273582-1
-*
+* María Silva - 202004684-0
 * Fernando Xais - 202273551-1
-* Gabriela Yañez - 202273511-2
-* **Tutor**: 
+* Gabriela Yáñez - 202273511-2
+* **Tutor**: Alex Urrutia
 
 ## Wiki
 
