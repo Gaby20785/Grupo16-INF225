@@ -1,12 +1,16 @@
-# Grupo 4
+# Grupo 5
 
-Este es el repositorio del *Grupo 4*, cuyos integrantes son:
+Este es el repositorio del *Grupo 5*, cuyos integrantes son:
 
- * Elson Navarrete - 202273582-1
+ * Rodrigo Flores - 202173523-2
  * Aylin Rojas - 202173531-3
- * Fernando Xais - 202273551-1
- * Gabriela Yañez - 202273511-2
- * **Tutor**: Matias Barrera
+ * Nestor Guajardo - 202173132-6
+ * Francisca Zavala - 202173632-8
+ * **Tutor**: Benjamín Daza
+   
+## proyecto a seguir
+
+Se seguirá trabajando con el proyecto 2024-02 Grupo 4 de este mismo repositorio
 
 ## Wiki
 
