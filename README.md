@@ -20,7 +20,7 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Gaby20
 ## Aclaraciones
 
 - Prototipo 1 no contiene los mismos archivos que hito-3. No se tiene una base de datos, actualmente.
-
+- Se continuará con este proyecto del semestre 2024-2 en el curso de Ingenieria de Software 2025-1.
 
 ## Aspectos ténicos:
 -Para la ejecución del código es necesario el uso de Xampp con Apache y MySQL (https://www.apachefriends.org/es/download.html)
