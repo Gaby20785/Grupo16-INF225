@@ -19,7 +19,6 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Gaby20
 
 ## Aclaraciones
 
-- Prototipo 1 no contiene los mismos archivos que hito-3. No se tiene una base de datos, actualmente.
 - Se continuará con este proyecto del semestre 2024-2 en el curso de Ingenieria de Software 2025-1.
 
 ## Aspectos ténicos:
@@ -31,11 +30,11 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Gaby20
 
   1- Tener instalado Xampp con Apache y MySQL (Xampp permite la descarga de Apache y MySQL dentro de él) (asegurar mismas versiones que las utilizadas para los archivos siguientes), caso contrario, debe instalarlo asegurando seguir un tutorial para su correcta instalación (verifique permisos del usuario y path) (https://youtu.be/TlrEvfbGTJ4?si=oPLV4z0CCkWrslIC recomendación)
   
-  2- Descargar archivos del tag "hito-5"
+  2- Descargar archivos del tag "hito-2"
   
-  3- Descomprimir el archivo "GRUPO04-2024-PROYINF-main"
+  3- Descomprimir el archivo "Grupo16-INF225-hito-2"
   
-  4- Llevar **los archivos descomprimidos de "proyecto-hito5.zip"** a htdocs en Xampp (se recomienda borrar los archivos presentes en htdocs, a menos que sea un proyecto en carpeta) (se deja el código del avance anterior 'proyecto.zip' en caso de necesitarlo)
+  4- Llevar **los archivos descomprimidos de "proyecto2025-hito2.zip"** a htdocs en Xampp (se recomienda borrar los archivos presentes en htdocs, a menos que sea un proyecto en carpeta) (se deja el código del avance anterior 'proyecto.zip' en caso de necesitarlo)
 
   5- Instalar las dependencias para python: mysql-connector-python, requests, beautifulsoup4
 	    Para esto basta con escribir en la consola:
@@ -47,7 +46,7 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Gaby20
 
   6- Abrir PhpMyAdmin de MySQL y crear una nueva base de datos llamada 'boletines', seleccionar la base de datos e importar el archivo 'boletines.sql'
   
-  7- Abrir "http://localhost/proyecto-hito5/proyecto/init.html" con google u otro navegador
+  7- Abrir "http://localhost/proyecto2025-hito2/proyecto/init.html" con google u otro navegador
 
   7.1- Cuando se ingrese a la sección de parámetros y fuentes, se pueden agregar una de estas dos fuentes (o ambas), para recopilar noticias y/o productos en sus respectivas tablas en la base de datos:
 	  https://www.agritechfuture.com/
@@ -62,7 +61,7 @@ Siguiendo estas instrucciones podrá utilizar los archivos presentes de manera c
 - MySQL versión 10.4.32.0
 - Versión del servidor: 10.4.32-MariaDB
 - **Creación en Windows**
-- **Guarde en htdocs de la forma: proyecto-hito5/proyecto/...**
+- **Guarde en htdocs de la forma: proyecto2025-hito2/proyecto/...**
   
 **NOTAS:** 
 - Dentro hay una carpeta 'config' con un archivo 'config.php' que tiene el host, usuario y contraseña por defecto para ingresar a la base de datos si tienen un puerto, usuario o contraseña en especifico deben cambiar esos apartados, y también deben cambiarlos en el archivo scrape.py.
