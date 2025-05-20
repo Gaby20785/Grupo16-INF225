@@ -30,11 +30,11 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Gaby20
 
   1- Tener instalado Xampp con Apache y MySQL (Xampp permite la descarga de Apache y MySQL dentro de él) (asegurar mismas versiones que las utilizadas para los archivos siguientes), caso contrario, debe instalarlo asegurando seguir un tutorial para su correcta instalación (verifique permisos del usuario y path) (https://youtu.be/TlrEvfbGTJ4?si=oPLV4z0CCkWrslIC recomendación)
   
-  2- Descargar archivos del tag "hito-2"
+  2- Descargar archivos del tag "Hito-3"
   
-  3- Descomprimir el archivo "Grupo16-INF225-hito-2"
+  3- Descomprimir el archivo "Grupo16-INF225-Hito-3"
   
-  4- Llevar **los archivos descomprimidos de "proyecto2025-hito2.zip"** a htdocs en Xampp (se recomienda borrar los archivos presentes en htdocs, a menos que sea un proyecto en carpeta) (se deja el código del avance anterior 'proyecto.zip' en caso de necesitarlo)
+  4- Llevar **los archivos descomprimidos de "proyecto2025-hito3.zip"** a htdocs en Xampp (se recomienda borrar los archivos presentes en htdocs, a menos que sea un proyecto en carpeta) (se deja el código del avance anterior 'proyecto.zip' en caso de necesitarlo)
 
   5- Instalar las dependencias para python: mysql-connector-python, requests, beautifulsoup4
 	    Para esto basta con escribir en la consola:
@@ -61,7 +61,7 @@ Siguiendo estas instrucciones podrá utilizar los archivos presentes de manera c
 - MySQL versión 10.4.32.0
 - Versión del servidor: 10.4.32-MariaDB
 - **Creación en Windows**
-- **Guarde en htdocs de la forma: proyecto2025-hito2/proyecto/...**
+- **Guarde en htdocs de la forma: proyecto2025-hito3/proyecto/...**
   
 **NOTAS:** 
 - Dentro hay una carpeta 'config' con un archivo 'config.php' que tiene el host, usuario y contraseña por defecto para ingresar a la base de datos si tienen un puerto, usuario o contraseña en especifico deben cambiar esos apartados, y también deben cambiarlos en el archivo scrape.py.
