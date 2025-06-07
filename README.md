@@ -30,11 +30,11 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Gaby20
 
   1- Tener instalado Xampp con Apache y MySQL (Xampp permite la descarga de Apache y MySQL dentro de él) (asegurar mismas versiones que las utilizadas para los archivos siguientes), caso contrario, debe instalarlo asegurando seguir un tutorial para su correcta instalación (verifique permisos del usuario y path) (https://youtu.be/TlrEvfbGTJ4?si=oPLV4z0CCkWrslIC recomendación)
   
-  2- Descargar archivos del tag "Hito-3"
+  2- Descargar archivos del tag "Hito-4"
   
-  3- Descomprimir el archivo "Grupo16-INF225-Hito-3"
+  3- Descomprimir el archivo "Grupo16-INF225-Hito-4"
   
-  4- Llevar **los archivos descomprimidos de "proyecto2025-hito3.zip"** a htdocs en Xampp (se recomienda borrar los archivos presentes en htdocs, a menos que sea un proyecto en carpeta) (se deja el código del avance anterior 'proyecto.zip' en caso de necesitarlo)
+  4- Llevar **los archivos descomprimidos de "proyecto2025-hito4.zip"** a htdocs en Xampp (se recomienda borrar los archivos presentes en htdocs, a menos que sea un proyecto en carpeta) (se deja el código del avance anterior 'proyecto.zip' en caso de necesitarlo)
 
   5- Instalar las dependencias para python: mysql-connector-python, requests, beautifulsoup4
 	    Para esto basta con escribir en la consola:
@@ -46,7 +46,7 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Gaby20
 
   6- Abrir PhpMyAdmin de MySQL y crear una nueva base de datos llamada 'boletines', seleccionar la base de datos e importar el archivo 'boletines.sql'
   
-  7- Abrir "http://localhost/proyecto2025-hito2/proyecto/init.html" con google u otro navegador
+  7- Abrir "http://localhost/proyecto2025-hito4/proyecto/init.html" con google u otro navegador
 
   7.1- Cuando se ingrese a la sección de parámetros y fuentes, se pueden agregar una de estas dos fuentes (o ambas), para recopilar noticias y/o productos en sus respectivas tablas en la base de datos:
 	  https://www.agritechfuture.com/
